@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    background-color: wheat;
+}
+#title{
+    background-color: grey;
+    color: white;
+}
+#output{
+    background-color: wheat;
+}
